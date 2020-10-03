@@ -7,6 +7,8 @@ img {
     border-radius: 50%;
     height: 82px;
     width: 90px;
+    float: left;
+    padding-right: 10px;
 }
 
 .container {
@@ -48,6 +50,7 @@ header {
     background-color: #63B3ED;
     color: #FFFFFF;
     border-radius: 15px 50px;
+    padding-top: 10px;
 }
 
 header > h1 {
